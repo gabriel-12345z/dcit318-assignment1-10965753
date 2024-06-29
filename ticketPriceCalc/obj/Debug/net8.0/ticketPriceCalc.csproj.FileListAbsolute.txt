@@ -1,0 +1,15 @@
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\bin\Debug\net8.0\ticketPriceCalc.exe
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\bin\Debug\net8.0\ticketPriceCalc.deps.json
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\bin\Debug\net8.0\ticketPriceCalc.runtimeconfig.json
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\bin\Debug\net8.0\ticketPriceCalc.dll
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\bin\Debug\net8.0\ticketPriceCalc.pdb
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.AssemblyInfo.cs
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.sourcelink.json
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.dll
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\refint\ticketPriceCalc.dll
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.pdb
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ticketPriceCalc.genruntimeconfig.cache
+C:\Users\gabri\Downloads\dcit318\dcit318-assignment1-10965753\ticketPriceCalc\obj\Debug\net8.0\ref\ticketPriceCalc.dll
